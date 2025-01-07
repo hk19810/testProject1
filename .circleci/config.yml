@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  maven-deps: moole/dependency-extractor@2.0.0  # Replace with your actual Orb namespace and version
+  maven-deps: moole/dependency-extractor@3.0.0  # Replace with your actual Orb namespace and version
 
 workflows:
   version: 2
